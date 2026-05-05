@@ -3,6 +3,7 @@
 <!-- HEADER -->
 <div style="text-align: center; border-bottom: 2px solid #f1f5f9; padding-bottom: 40px; margin-bottom: 50px;">
   <h1 style="color: #0f172a; font-size: 3rem; font-weight: 900; margin-bottom: 10px; letter-spacing: -0.05em; text-transform: uppercase;">SILVA, Francisco</h1>
+  <p style="color: #3b82f6; font-size: 1.4rem; font-weight: 600; margin-top: 0; letter-spacing: 0.05em;">Mestrando em Administração pela Universidade Estadual do Ceará</p>
   <p style="color: #3b82f6; font-size: 1.4rem; font-weight: 600; margin-top: 0; letter-spacing: 0.05em;">Especialista em IA, Dados e Estratégia de Inovação</p>
   <div style="margin-top: 25px; display: flex; justify-content: center; gap: 15px; font-size: 0.95rem; color: #64748b;">
     <span>Soluções End-to-End</span>
