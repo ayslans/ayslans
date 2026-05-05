@@ -14,7 +14,7 @@
   </div>
 </div>
 
-<!-- CASE EM DESTAQUE: VÓRTEX IA -->
+<!-- DEV/CEO: VÓRTEX IA -->
 <div style="margin-bottom: 60px;">
   <div style="display: flex; align-items: center; margin-bottom: 25px;">
     <div style="width: 5px; height: 30px; background: #ea580c; margin-right: 15px; border-radius: 10px;"></div>
@@ -24,7 +24,7 @@
   <div style="background: #0f172a; border-radius: 24px; padding: 40px; color: #f8fafc; border: 1px solid #1e293b; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);">
     <div style="display: flex; flex-direction: column; md-flex-direction: row; gap: 30px;">
       <div style="flex: 1;">
-        <div style="display: inline-block; background: #ea580c; color: #ffffff; padding: 4px 12px; border-radius: 8px; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; margin-bottom: 15px; letter-spacing: 0.1em;">Flagship Project</div>
+        <div style="display: inline-block; background: #ea580c; color: #ffffff; padding: 4px 12px; border-radius: 8px; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; margin-bottom: 15px; letter-spacing: 0.1em;"><img width="1096" height="1600" alt="WhatsApp_Image_2026-04-25_at_15 35 57-removebg" src="https://github.com/user-attachments/assets/97473cda-24a1-41a6-a1a6-8570c1247c61" /></div>
         <h3 style="font-size: 2.2rem; font-weight: 900; color: #ffffff; margin: 0 0 15px 0;">Vórtex IA Consultoria</h3>
         <p style="font-size: 1.1rem; color: #94a3b8; margin-bottom: 25px; line-height: 1.6;">Arquitetura de ponta para <strong>Agentes de IA e Landing Pages de Alta Conversão</strong>. Transformando intenção em interfaces dinâmicas em tempo real.</p>
         
