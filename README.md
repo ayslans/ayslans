@@ -1,350 +1,348 @@
-# [SILVA, Francisco] | IA, Dados e Estratégia de Inovação
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #1e293b; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #ffffff;">
 
-Profissional e pesquisador com foco no desenvolvimento de soluções de Inteligência Artificial ponta a ponta (End-to-End). Especialista em integrar modelos avançados de linguagem (LLMs) com infraestruturas em nuvem para resolver problemas complexos de gestão e análise de dados governamentais e corporativos.
+<!-- HEADER -->
+<div style="text-align: center; border-bottom: 2px solid #e2e8f0; padding-bottom: 30px; margin-bottom: 40px;">
+  <h1 style="color: #0f172a; font-size: 2.5rem; font-weight: 800; margin-bottom: 10px; letter-spacing: -0.025em;">Relatório de Performance Profissional</h1>
+  <p style="color: #64748b; font-size: 1.2rem; margin-top: 0;">IA, Dados e Estratégia de Inovação</p>
+  <div style="margin-top: 20px; font-weight: 600;">
+    <span style="color: #0f172a;">Francisco Silva</span>
+    <span style="color: #cbd5e1; margin: 0 10px;">|</span>
+    <span style="color: #3b82f6;">Especialista em Soluções End-to-End & Inovação Tecnológica</span>
+  </div>
+</div>
 
----
+<!-- RESUMO EXECUTIVO -->
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Resumo Executivo</h2>
+  </div>
+  <p style="background-color: #f8fafc; border-radius: 8px; padding: 20px; border: 1px solid #f1f5f9; color: #334155;">
+    Profissional e pesquisador com foco no desenvolvimento de soluções de Inteligência Artificial ponta a ponta (End-to-End). Especialista em integrar modelos avançados de linguagem (LLMs) com infraestruturas em nuvem para resolver problemas complexos de gestão e análise de dados governamentais e corporativos.
+  </p>
+</div>
 
-## 💼 Projetos em Destaque
+<!-- PROJETOS ESTRATÉGICOS -->
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Portfólio de Projetos Estratégicos</h2>
+  </div>
 
-### Vórtex AI
-**Uma startup em formato de consultoria em fase de TRL 3 que busca desenvolver agentes de para organizações e profissionais liberais
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+    <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px;">
+      <h3 style="color: #3b82f6; margin-top: 0; font-size: 1.25rem;">Vórtex AI</h3>
+      <p style="font-size: 0.9rem; color: #64748b; font-style: italic;">Startup em formato de consultoria (Fase TRL 3)</p>
+      <p style="font-size: 0.95rem;">Desenvolvimento de agentes inteligentes para otimização de processos em organizações e suporte a profissionais liberais.</p>
+    </div>
 
-## 📫 Contato
+    <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px;">
+      <h3 style="color: #3b82f6; margin-top: 0; font-size: 1.25rem;">RFP-Analyzer Enterprise</h3>
+      <p style="font-size: 0.9rem; color: #64748b; font-weight: 600;">Arquitetura de Inteligência de Mercado e Licitações</p>
+      <p style="font-size: 0.95rem;">Solução automatizada para extração e análise de dados de editais públicos.</p>
+      <div style="margin-top: 10px; font-size: 0.85rem; color: #475569;">
+        <strong>Stack:</strong> Python, GCP, Vertex AI, Gemini 1.5 Pro
+      </div>
+    </div>
 
-Você pode acompanhar nossos projetos e entrar em contato através dos canais abaixo:
+    <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px;">
+      <h3 style="color: #3b82f6; margin-top: 0; font-size: 1.25rem;">Nexus AI (POC)</h3>
+      <p style="font-size: 0.9rem; color: #64748b; font-weight: 600;">Agente Inteligente para Gestão da Inovação</p>
+      <p style="font-size: 0.95rem;">Automação de processos em hubs de inovação e departamentos de P&D.</p>
+      <div style="margin-top: 10px; font-size: 0.85rem; color: #475569;">
+        <strong>Stack:</strong> Python, Agentic Workflow, LLM APIs
+      </div>
+    </div>
 
-* **Website:** [www.vortexaiconsultoria.com)
-* **E-mail:** [contato@vortexaiconsultoria.com)
+    <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px;">
+      <h3 style="color: #3b82f6; margin-top: 0; font-size: 1.25rem;">Análise Setorial</h3>
+      <p style="font-size: 0.9rem; color: #64748b; font-weight: 600;">Integração de IA na Indústria</p>
+      <p style="font-size: 0.95rem;">Modelagem estatística aplicada para insights estratégicos em políticas de inovação.</p>
+      <div style="margin-top: 10px; font-size: 0.85rem; color: #475569;">
+        <strong>Stack:</strong> Typescript, R, Python, Bibliometrix
+      </div>
+    </div>
+  </div>
+</div>
 
-### 📱 Fale comigo
+<!-- COMPETÊNCIAS TÉCNICAS -->
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Matriz de Competências Técnicas</h2>
+  </div>
+  <table style="width: 100%; border-collapse: collapse; margin-top: 10px; border-radius: 8px; overflow: hidden; border: 1px solid #e2e8f0;">
+    <thead>
+      <tr style="background-color: #f8fafc;">
+        <th style="padding: 12px 15px; text-align: left; border-bottom: 2px solid #e2e8f0; color: #475569; font-weight: 600;">Categoria</th>
+        <th style="padding: 12px 15px; text-align: left; border-bottom: 2px solid #e2e8f0; color: #475569; font-weight: 600;">Tecnologias e Metodologias</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #e2e8f0; font-weight: 600; color: #1e293b;">Desenvolvimento e IA</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #e2e8f0; color: #475569;">Python, R, Machine Learning, Deep Learning, NLP</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #e2e8f0; font-weight: 600; color: #1e293b;">Engenharia de Dados</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #e2e8f0; color: #475569;">Web Scraping, GCP (Vertex AI, BigQuery, Cloud Functions)</td>
+      </tr>
+      <tr style="background-color: #fcfcfc;">
+        <td style="padding: 12px 15px; font-weight: 600; color: #1e293b;">Inteligência de Negócio</td>
+        <td style="padding: 12px 15px; color: #475569;">Power BI Avançado, Dashboards Estratégicos, Estatística Multivariada</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-Clique no botão abaixo para iniciar uma conversa diretamente no WhatsApp:
+<!-- CERTIFICAÇÕES -->
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Certificações e Reconhecimentos</h2>
+  </div>
+  
+  <div style="background-color: #f8fafc; padding: 30px; border-radius: 12px; border: 1px solid #e2e8f0;">
+    <table border="0" width="100%" cellspacing="15">
+      <tr>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/4f645702-7c38-4bcc-b903-392b00c8ebac" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Vortex AI</span>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/7a7aae0b-5eb6-44e3-aff6-ab600a77b21a" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Azure AI Associate</span>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/142999c9-04a8-41cf-b5b8-7bac375d2efa" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">AWS AI Practitioner</span>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/6f8fe376-ac3c-4cef-a487-d03253f7afcd" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Terraform Associate</span>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/ba4f49ab-e228-4a9d-bd09-439b7b84f574" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">CCST Cybersecurity</span>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/48d51b0c-461c-404d-a738-1130ed283497" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">CCST IT Support</span>
+        </td>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/ba4a3305-1ef4-442e-ab0e-7433487b77e8" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">DevNet Learning</span>
+        </td>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/288a6160-504a-4f8e-94de-1c54f1237ee7" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Cyber Pathway</span>
+        </td>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/06b568c0-5d63-42da-aeee-cbecae058bed" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Intro to Cyber</span>
+        </td>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/fc52b456-9a4f-48ab-8045-ad0c3322d726" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Google AI Leader</span>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588982212212)
+<!-- CANAIS DE COMUNICAÇÃO -->
+<div style="border-top: 2px solid #e2e8f0; padding-top: 30px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Canais de Comunicação</h2>
+  </div>
 
-<br>
+  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <a href="http://www.vortexaiconsultoria.com" style="text-decoration: none; color: #1e293b; background: #f8fafc; padding: 10px 20px; border-radius: 8px; border: 1px solid #e2e8f0; font-weight: 600; font-size: 0.9rem;">Website</a>
+    <a href="https://www.linkedin.com/in/ayslanregino" style="text-decoration: none; color: #1e293b; background: #f8fafc; padding: 10px 20px; border-radius: 8px; border: 1px solid #e2e8f0; font-weight: 600; font-size: 0.9rem;">LinkedIn</a>
+    <a href="mailto:contato@vortexaiconsultoria.com" style="text-decoration: none; color: #1e293b; background: #f8fafc; padding: 10px 20px; border-radius: 8px; border: 1px solid #e2e8f0; font-weight: 600; font-size: 0.9rem;">E-mail</a>
+    <a href="https://wa.me/5588982212212" style="text-decoration: none;"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" style="border-radius: 8px;"/></a>
+  </div>
+</div>
 
-**Ou escaneie o QR Code:**
+<p style="text-align: center; color: #94a3b8; font-size: 0.8rem; margin-top: 60px; border-top: 1px solid #f1f5f9; padding-top: 20px;">
+  © 2026 Francisco Silva | Gerado para fins de Relatório de Gestão e Inovação.
+</p>
 
-<img src="qrcode.png" alt="QR Code WhatsApp" width="150">
+</div>
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #1e293b; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px; background-color: #ffffff;">
 
-### 🔍 RFP-Analyzer Enterprise
-**Arquitetura de Inteligência de Mercado e Licitações**
-Solução desenhada para automatizar a análise e extração de dados de editais e licitações públicas.
-* **Stack:** Python, Google Cloud Platform (GCP), Vertex AI, Gemini 1.5 Pro.
-* **Destaque:** Implementação de fluxos de processamento de documentos em larga escala com foco em precisão técnica e conformidade.
+<!-- HEADER -->
+<div style="text-align: center; border-bottom: 2px solid #e2e8f0; padding-bottom: 30px; margin-bottom: 40px;">
+  <h1 style="color: #0f172a; font-size: 2.5rem; font-weight: 800; margin-bottom: 10px; letter-spacing: -0.025em;">Relatório de Performance Profissional</h1>
+  <p style="color: #64748b; font-size: 1.2rem; margin-top: 0;">IA, Dados e Estratégia de Inovação</p>
+  <div style="margin-top: 20px; font-weight: 600;">
+    <span style="color: #0f172a;">Francisco Silva</span>
+    <span style="color: #cbd5e1; margin: 0 10px;">|</span>
+    <span style="color: #3b82f6;">Especialista em Soluções End-to-End & Inovação Tecnológica</span>
+  </div>
+</div>
 
-### 🤖 Nexus AI (POC)
-**Agente Inteligente para Gestão da Inovação**
-Desenvolvimento de uma Prova de Conceito para automação de processos em hubs de inovação e departamentos de P&D.
-* **Stack:** Python, Integração de Agentes (Frameworks de Agentic Workflow), APIs de LLM.
-* **Destaque:** Foco na experiência do usuário corporativo e na métrica de prontidão tecnológica (TRL).
+<!-- RESUMO EXECUTIVO -->
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Resumo Executivo</h2>
+  </div>
+  <p style="background-color: #f8fafc; border-radius: 8px; padding: 20px; border: 1px solid #f1f5f9; color: #334155;">
+    Profissional e pesquisador com foco no desenvolvimento de soluções de Inteligência Artificial ponta a ponta (End-to-End). Especialista em integrar modelos avançados de linguagem (LLMs) com infraestruturas em nuvem para resolver problemas complexos de gestão e análise de dados governamentais e corporativos.
+  </p>
+</div>
 
-### 📈 Análise Setorial e Inteligência de Dados
-**Integração de IA na Indústria (Pesquisa Quantitativa)**
-Modelagem estatística aplicada para compreender o impacto da tecnologia no setor industrial.
-* **Stack:** Typescript, R, Python, Bibliometrix/Biblioshiny
-* **Destaque:** Transformação de dados brutos em insights estratégicos para políticas de inovação.
+<!-- PROJETOS ESTRATÉGICOS -->
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Portfólio de Projetos Estratégicos</h2>
+  </div>
 
----
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+    <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px;">
+      <h3 style="color: #3b82f6; margin-top: 0; font-size: 1.25rem;">Vórtex AI</h3>
+      <p style="font-size: 0.9rem; color: #64748b; font-style: italic;">Startup em formato de consultoria (Fase TRL 3)</p>
+      <p style="font-size: 0.95rem;">Desenvolvimento de agentes inteligentes para otimização de processos em organizações e suporte a profissionais liberais.</p>
+    </div>
 
-## 🛠️ Stack Tecnológica
+    <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px;">
+      <h3 style="color: #3b82f6; margin-top: 0; font-size: 1.25rem;">RFP-Analyzer Enterprise</h3>
+      <p style="font-size: 0.9rem; color: #64748b; font-weight: 600;">Arquitetura de Inteligência de Mercado e Licitações</p>
+      <p style="font-size: 0.95rem;">Solução automatizada para extração e análise de dados de editais públicos.</p>
+      <div style="margin-top: 10px; font-size: 0.85rem; color: #475569;">
+        <strong>Stack:</strong> Python, GCP, Vertex AI, Gemini 1.5 Pro
+      </div>
+    </div>
 
-### Desenvolvimento e IA
-* **Linguagens:** Python, R.
-* **Modelagem:** Machine Learning, Deep Learning, Processamento de Linguagem Natural (NLP).
-* **Cloud:** Google Cloud Platform (Vertex AI, BigQuery, Cloud Functions).
+    <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px;">
+      <h3 style="color: #3b82f6; margin-top: 0; font-size: 1.25rem;">Nexus AI (POC)</h3>
+      <p style="font-size: 0.9rem; color: #64748b; font-weight: 600;">Agente Inteligente para Gestão da Inovação</p>
+      <p style="font-size: 0.95rem;">Automação de processos em hubs de inovação e departamentos de P&D.</p>
+      <div style="margin-top: 10px; font-size: 0.85rem; color: #475569;">
+        <strong>Stack:</strong> Python, Agentic Workflow, LLM APIs
+      </div>
+    </div>
 
-### Engenharia de Dados
-* **Extração:** Web Scraping especializado (Instituições Públicas e BI).
-* **Visualização:** Power BI (Business Intelligence Avançado), Dashboards Estratégicos.
-* **Estatística:** Análise multivariada e métodos quantitativos rigorosos.
----
+    <div style="border: 1px solid #e2e8f0; border-radius: 12px; padding: 20px;">
+      <h3 style="color: #3b82f6; margin-top: 0; font-size: 1.25rem;">Análise Setorial</h3>
+      <p style="font-size: 0.9rem; color: #64748b; font-weight: 600;">Integração de IA na Indústria</p>
+      <p style="font-size: 0.95rem;">Modelagem estatística aplicada para insights estratégicos em políticas de inovação.</p>
+      <div style="margin-top: 10px; font-size: 0.85rem; color: #475569;">
+        <strong>Stack:</strong> Typescript, R, Python, Bibliometrix
+      </div>
+    </div>
+  </div>
+</div>
 
-## 📫 Contato
-* **LinkedIn:** www.linkedin.com/in/ayslanregino
-* **E-mail:** contato@vortexaiconsultoria.com
+<!-- COMPETÊNCIAS TÉCNICAS -->
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 15px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Matriz de Competências Técnicas</h2>
+  </div>
+  <table style="width: 100%; border-collapse: collapse; margin-top: 10px; border-radius: 8px; overflow: hidden; border: 1px solid #e2e8f0;">
+    <thead>
+      <tr style="background-color: #f8fafc;">
+        <th style="padding: 12px 15px; text-align: left; border-bottom: 2px solid #e2e8f0; color: #475569; font-weight: 600;">Categoria</th>
+        <th style="padding: 12px 15px; text-align: left; border-bottom: 2px solid #e2e8f0; color: #475569; font-weight: 600;">Tecnologias e Metodologias</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #e2e8f0; font-weight: 600; color: #1e293b;">Desenvolvimento e IA</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #e2e8f0; color: #475569;">Python, R, Machine Learning, Deep Learning, NLP</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #e2e8f0; font-weight: 600; color: #1e293b;">Engenharia de Dados</td>
+        <td style="padding: 12px 15px; border-bottom: 1px solid #e2e8f0; color: #475569;">Web Scraping, GCP (Vertex AI, BigQuery, Cloud Functions)</td>
+      </tr>
+      <tr style="background-color: #fcfcfc;">
+        <td style="padding: 12px 15px; font-weight: 600; color: #1e293b;">Inteligência de Negócio</td>
+        <td style="padding: 12px 15px; color: #475569;">Power BI Avançado, Dashboards Estratégicos, Estatística Multivariada</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### 🏆 Certificações e Reconhecimentos
+<!-- CERTIFICAÇÕES -->
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Certificações e Reconhecimentos</h2>
+  </div>
+  
+  <div style="background-color: #f8fafc; padding: 30px; border-radius: 12px; border: 1px solid #e2e8f0;">
+    <table border="0" width="100%" cellspacing="15">
+      <tr>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/4f645702-7c38-4bcc-b903-392b00c8ebac" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Vortex AI</span>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/7a7aae0b-5eb6-44e3-aff6-ab600a77b21a" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Azure AI Associate</span>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/142999c9-04a8-41cf-b5b8-7bac375d2efa" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">AWS AI Practitioner</span>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/6f8fe376-ac3c-4cef-a487-d03253f7afcd" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Terraform Associate</span>
+        </td>
+        <td align="center" width="20%">
+          <img src="https://github.com/user-attachments/assets/ba4f49ab-e228-4a9d-bd09-439b7b84f574" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">CCST Cybersecurity</span>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/48d51b0c-461c-404d-a738-1130ed283497" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">CCST IT Support</span>
+        </td>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/ba4a3305-1ef4-442e-ab0e-7433487b77e8" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">DevNet Learning</span>
+        </td>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/288a6160-504a-4f8e-94de-1c54f1237ee7" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Cyber Pathway</span>
+        </td>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/06b568c0-5d63-42da-aeee-cbecae058bed" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Intro to Cyber</span>
+        </td>
+        <td align="center">
+          <img src="https://github.com/user-attachments/assets/fc52b456-9a4f-48ab-8045-ad0c3322d726" width="80" style="margin-bottom: 10px;"/><br />
+          <span style="font-size: 0.8rem; font-weight: 600; color: #475569;">Google AI Leader</span>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
-<table border="0">
-  <tr>
-    <td align="center" width="200">
-      <img src="WhatsApp_Image_2026-04-30_at_20.31.34-removebg.png" width="150" alt="Vortex AI Logo"/><br />
-      <b>Vortex AI</b>
-    </td>
-    <td align="center" width="200">
-      <img src="blob (1).png" width="120" alt="Azure AI Engineer"/><br />
-      <b>Azure AI Associate</b>
-    </td>
-    <td align="center" width="200">
-      <img src="blob.png" width="120" alt="AWS AI Practitioner"/><br />
-      <b>AWS AI Practitioner</b>
-    </td>
-    <td align="center" width="200">
-      <img src="24734596-6403-4f95-a4c7-26cadafec6a111309069965059147889.webp" width="120" alt="Terraform"/><br />
-      <b>Terraform Associate</b>
-    </td>
-    <td align="center" width="200">
-      <img src="CCST-Seguranca-Cibernetica-100-160-300x300.png" width="120" alt="CCST Cybersecurity"/><br />
-      <b>CCST Cybersecurity</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="CCST-Suporte-de-TI-100-140-300x300.png" width="120" alt="CCST IT Support"/><br />
-      <b>CCST IT Support</b>
-    </td>
-    <td align="center" width="200">
-      <img src="DEVASC_Learning_Badge.png" width="120" alt="DevNet Associate"/><br />
-      <b>DevNet Learning</b>
-    </td>
-    <td align="center" width="200">
-      <img src="CybersecurityPathwayBadge.png" width="120" alt="Cybersecurity Pathway"/><br />
-      <b>Cyber Pathway</b>
-    </td>
-    <td align="center" width="200">
-      <img src="I2CS__1_.png" width="120" alt="Intro to Cybersecurity"/><br />
-      <b>Intro to Cyber</b>
-    </td>
-    <td align="center" width="200">
-      <img src="does-anyone-knows-how-many-certifications-of-ai-from-google-v0-tw6tldaarr1g1.webp" width="120" alt="Google AI"/><br />
-      <b>Google AI Cloud</b>
-    </td>
-  </tr>
-</table>
+<!-- CANAIS DE COMUNICAÇÃO -->
+<div style="border-top: 2px solid #e2e8f0; padding-top: 30px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="width: 4px; height: 24px; background-color: #3b82f6; margin-right: 12px; border-radius: 2px;"></div>
+    <h2 style="font-size: 1.5rem; font-weight: 700; color: #0f172a; margin: 0;">Canais de Comunicação</h2>
+  </div>
 
-### Certificações
+  <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <a href="http://www.vortexaiconsultoria.com" style="text-decoration: none; color: #1e293b; background: #f8fafc; padding: 10px 20px; border-radius: 8px; border: 1px solid #e2e8f0; font-weight: 600; font-size: 0.9rem;">Website</a>
+    <a href="https://www.linkedin.com/in/ayslanregino" style="text-decoration: none; color: #1e293b; background: #f8fafc; padding: 10px 20px; border-radius: 8px; border: 1px solid #e2e8f0; font-weight: 600; font-size: 0.9rem;">LinkedIn</a>
+    <a href="mailto:contato@vortexaiconsultoria.com" style="text-decoration: none; color: #1e293b; background: #f8fafc; padding: 10px 20px; border-radius: 8px; border: 1px solid #e2e8f0; font-weight: 600; font-size: 0.9rem;">E-mail</a>
+    <a href="https://wa.me/5588982212212" style="text-decoration: none;"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" style="border-radius: 8px;"/></a>
+  </div>
+</div>
 
-<table border="0">
-  <tr>
-    <td align="center" width="200">
-      <img src="WhatsApp_Image_2026-04-30_at_20.31.34-removebg.png" width="150" alt="Vortex AI Logo"/><br />
-      <b>Vortex AI</b>
-    </td>
-    <td align="center" width="200">
-      <img src="blob (1).png" width="120" alt="Azure AI Engineer"/><br />
-      <b>Azure AI Associate</b>
-    </td>
-    <td align="center" width="200">
-      <img src="blob.png" width="120" alt="AWS AI Practitioner"/><br />
-      <b>AWS AI Practitioner</b>
-    </td>
-    <td align="center" width="200">
-      <img src="24734596-6403-4f95-a4c7-26cadafec6a111309069965059147889.webp" width="120" alt="Terraform"/><br />
-      <b>Terraform Associate</b>
-    </td>
-    <td align="center" width="200">
-      <img src="CCST-Seguranca-Cibernetica-100-160-300x300.png" width="120" alt="CCST Cybersecurity"/><br />
-      <b>CCST Cybersecurity</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="CCST-Suporte-de-TI-100-140-300x300.png" width="120" alt="CCST IT Support"/><br />
-      <b>CCST IT Support</b>
-    </td>
-    <td align="center" width="200">
-      <img src="DEVASC_Learning_Badge.png" width="120" alt="DevNet Associate"/><br />
-      <b>DevNet Learning</b>
-    </td>
-    <td align="center" width="200">
-      <img src="CybersecurityPathwayBadge.png" width="120" alt="Cybersecurity Pathway"/><br />
-      <b>Cyber Pathway</b>
-    </td>
-    <td align="center" width="200">
-      <img src="I2CS__1_.png" width="120" alt="Intro to Cybersecurity"/><br />
-      <b>Intro to Cyber</b>
-    </td>
-    <td align="center" width="200">
-      <img src="does-anyone-knows-how-many-certif<img width="1080" height="996" alt="does-anyone-knows-how-many-certifications-of-ai-from-google-v0-tw6tldaarr1g1" src="https://github.com/user-attachments/assets/fc52b456-9a4f-48ab-8045-ad0c3322d726" />
-<img width="600" height="600" alt="24734596-6403-4f95-a4c7-26cadafec6a111309069965059147889" src="https://github.com/user-attachments/assets/6f8fe376-ac3c-4cef-a487-d03253f7afcd" />
-<img width="300" height="300" alt="CCST-Suporte-de-TI-100-140-300x300" src="https://github.com/user-attachments/assets/48d51b0c-461c-404d-a738-1130ed283497" />
-<img width="300" height="300" alt="CCST-Seguranca-Cibernetica-100-160-300x300" src="https://github.com/user-attachments/assets/ba4f49ab-e228-4a9d-bd09-439b7b84f574" />
-<img width="334" height="352" alt="8" src="https://github.com/user-attachments/assets/4e69f578-b2b8-424f-b9ef-5dae383e14e9" />
-<img width="600" height="600" alt="DEVASC_Learning_Badge" src="https://github.com/user-attachments/assets/ba4a3305-1ef4-442e-ab0e-7433487b77e8" />
-<img width="1600" height="1600" alt="blob" src="https://github.com/user-attachments/assets/142999c9-04a8-41cf-b5b8-7bac375d2efa" />
-<img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/4f645702-7c38-4bcc-b903-392b00c8ebac" />
-<img width="1600" height="1600" alt="blob (1)" src="https://github.com/user-attachments/assets/7a7aae0b-5eb6-44e3-aff6-ab600a77b21a" />
-<img width="340" height="340" alt="CybersecurityPathwayBadge" src="https://github.com/user-attachments/assets/288a6160-504a-4f8e-94de-1c54f1237ee7" />
-<img width="1468" height="1468" alt="image (1)" src="https://github.com/user-attachments/assets/f59a9087-975d-4db3-8b67-99e5aa748a20" />
-<img width="600" height="600" alt="I2CS__1_" src="https://github.com/user-attachments/assets/06b568c0-5d63-42da-aeee-cbecae058bed" />
-ications-of-ai-from-google-v0-tw6tldaarr1g1.webp" width="120" alt="Google AI"/><br />
-      <b>Google AI Cloud</b>
-    </td>
-  </tr>
-</table>
-# [SILVA, Francisco] | IA, Dados e Estratégia de Inovação
+<p style="text-align: center; color: #94a3b8; font-size: 0.8rem; margin-top: 60px; border-top: 1px solid #f1f5f9; padding-top: 20px;">
+  © 2026 Francisco Silva | Gerado para fins de Relatório de Gestão e Inovação.
+</p>
 
-Profissional e pesquisador com foco no desenvolvimento de soluções de Inteligência Artificial ponta a ponta (End-to-End). Especialista em integrar modelos avançados de linguagem (LLMs) com infraestruturas em nuvem para resolver problemas complexos de gestão e análise de dados governamentais e corporativos.
-
----
-
-## 💼 Projetos em Destaque
-
-### Vórtex AI
-**Uma startup em formato de consultoria em fase de TRL 3 que busca desenvolver agentes de para organizações e profissionais liberais
-
-## 📫 Contato
-
-Você pode acompanhar nossos projetos e entrar em contato através dos canais abaixo:
-
-* **Website:** [www.vortexaiconsultoria.com)
-* **E-mail:** [contato@vortexaiconsultoria.com)
-
-### 📱 Fale comigo
-
-Clique no botão abaixo para iniciar uma conversa diretamente no WhatsApp:
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588982212212)
-
-<br>
-
-**Ou escaneie o QR Code:**
-
-<img src="qrcode.png" alt="QR Code WhatsApp" width="150">
-
-### 🔍 RFP-Analyzer Enterprise
-**Arquitetura de Inteligência de Mercado e Licitações**
-Solução desenhada para automatizar a análise e extração de dados de editais e licitações públicas.
-* **Stack:** Python, Google Cloud Platform (GCP), Vertex AI, Gemini 1.5 Pro.
-* **Destaque:** Implementação de fluxos de processamento de documentos em larga escala com foco em precisão técnica e conformidade.
-
-### 🤖 Nexus AI (POC)
-**Agente Inteligente para Gestão da Inovação**
-Desenvolvimento de uma Prova de Conceito para automação de processos em hubs de inovação e departamentos de P&D.
-* **Stack:** Python, Integração de Agentes (Frameworks de Agentic Workflow), APIs de LLM.
-* **Destaque:** Foco na experiência do usuário corporativo e na métrica de prontidão tecnológica (TRL).
-
-### 📈 Análise Setorial e Inteligência de Dados
-**Integração de IA na Indústria (Pesquisa Quantitativa)**
-Modelagem estatística aplicada para compreender o impacto da tecnologia no setor industrial.
-* **Stack:** Typescript, R, Python, Bibliometrix/Biblioshiny
-* **Destaque:** Transformação de dados brutos em insights estratégicos para políticas de inovação.
-
----
-
-## 🛠️ Stack Tecnológica
-
-### Desenvolvimento e IA
-* **Linguagens:** Python, R.
-* **Modelagem:** Machine Learning, Deep Learning, Processamento de Linguagem Natural (NLP).
-* **Cloud:** Google Cloud Platform (Vertex AI, BigQuery, Cloud Functions).
-
-### Engenharia de Dados
-* **Extração:** Web Scraping especializado (Instituições Públicas e BI).
-* **Visualização:** Power BI (Business Intelligence Avançado), Dashboards Estratégicos.
-* **Estatística:** Análise multivariada e métodos quantitativos rigorosos.
----
-
-## 📫 Contato
-* **LinkedIn:** www.linkedin.com/in/ayslanregino
-* **E-mail:** contato@vortexaiconsultoria.com
-
-### 🏆 Certificações e Reconhecimentos
-
-<table border="0">
-  <tr>
-    <td align="center" width="200">
-      <img src="WhatsApp_Image_2026-04-30_at_20.31.34-removebg.png" width="150" alt="Vortex AI Logo"/><br />
-      <b>Vortex AI</b>
-    </td>
-    <td align="center" width="200">
-      <img src="blob (1).png" width="120" alt="Azure AI Engineer"/><br />
-      <b>Azure AI Associate</b>
-    </td>
-    <td align="center" width="200">
-      <img src="blob.png" width="120" alt="AWS AI Practitioner"/><br />
-      <b>AWS AI Practitioner</b>
-    </td>
-    <td align="center" width="200">
-      <img src="24734596-6403-4f95-a4c7-26cadafec6a111309069965059147889.webp" width="120" alt="Terraform"/><br />
-      <b>Terraform Associate</b>
-    </td>
-    <td align="center" width="200">
-      <img src="CCST-Seguranca-Cibernetica-100-160-300x300.png" width="120" alt="CCST Cybersecurity"/><br />
-      <b>CCST Cybersecurity</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="CCST-Suporte-de-TI-100-140-300x300.png" width="120" alt="CCST IT Support"/><br />
-      <b>CCST IT Support</b>
-    </td>
-    <td align="center" width="200">
-      <img src="DEVASC_Learning_Badge.png" width="120" alt="DevNet Associate"/><br />
-      <b>DevNet Learning</b>
-    </td>
-    <td align="center" width="200">
-      <img src="CybersecurityPathwayBadge.png" width="120" alt="Cybersecurity Pathway"/><br />
-      <b>Cyber Pathway</b>
-    </td>
-    <td align="center" width="200">
-      <img src="I2CS__1_.png" width="120" alt="Intro to Cybersecurity"/><br />
-      <b>Intro to Cyber</b>
-    </td>
-    <td align="center" width="200">
-      <img src="does-anyone-knows-how-many-certifications-of-ai-from-google-v0-tw6tldaarr1g1.webp" width="120" alt="Google AI"/><br />
-      <b>Google AI Cloud</b>
-    </td>
-  </tr>
-</table>
-
-### Certificações
-
-<table border="0">
-  <tr>
-    <td align="center" width="200">
-      <img src="WhatsApp_Image_2026-04-30_at_20.31.34-removebg.png" width="150" alt="Vortex AI Logo"/><br />
-      <b>Vortex AI</b>
-    </td>
-    <td align="center" width="200">
-      <img src="blob (1).png" width="120" alt="Azure AI Engineer"/><br />
-      <b>Azure AI Associate</b>
-    </td>
-    <td align="center" width="200">
-      <img src="blob.png" width="120" alt="AWS AI Practitioner"/><br />
-      <b>AWS AI Practitioner</b>
-    </td>
-    <td align="center" width="200">
-      <img src="24734596-6403-4f95-a4c7-26cadafec6a111309069965059147889.webp" width="120" alt="Terraform"/><br />
-      <b>Terraform Associate</b>
-    </td>
-    <td align="center" width="200">
-      <img src="CCST-Seguranca-Cibernetica-100-160-300x300.png" width="120" alt="CCST Cybersecurity"/><br />
-      <b>CCST Cybersecurity</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="CCST-Suporte-de-TI-100-140-300x300.png" width="120" alt="CCST IT Support"/><br />
-<img width="334" height="352" alt="8" src="https://github.com/user-attachments/assets/4e69f578-b2b8-424f-b9ef-5dae383e14e9" />
-      <b>CCST IT Support</b>
-    </td>
-    <td align="center" width="200">
-      <img src="DEVASC_Learning_Badge.png" width="120" alt="DevNet Associate"/><br />
-      <b>DevNet Learning</b>
-    </td>
-    <td align="center" width="200">
-      <img src="CybersecurityPathwayBadge.png" width="120" alt="Cybersecurity Pathway"/><br />
-      <b>Cyber Pathway</b>
-    </td>
-    <td align="center" width="200">
-      <img src="I2CS__1_.png" width="120" alt="Intro to Cybersecurity"/><br />
-      <b>Intro to Cyber</b>
-    </td>
-    <td align="center" width="200">
-      <img src="does-anyone-knows-how-many-certif<img width="1080" height="996" alt="does-anyone-knows-how-many-certifications-of-ai-from-google-v0-tw6tldaarr1g1" src="https://github.com/user-attachments/assets/fc52b456-9a4f-48ab-8045-ad0c3322d726" />
-<img width="600" height="600" alt="24734596-6403-4f95-a4c7-26cadafec6a111309069965059147889" src="https://github.com/user-attachments/assets/6f8fe376-ac3c-4cef-a487-d03253f7afcd" />
-<img width="600" height="600" alt="DEVASC_Learning_Badge" src="https://github.com/user-attachments/assets/ba4a3305-1ef4-442e-ab0e-7433487b77e8" />
-<img width="1600" height="1600" alt="blob" src="https://github.com/user-attachments/assets/142999c9-04a8-41cf-b5b8-7bac375d2efa" />
-<img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/4f645702-7c38-4bcc-b903-392b00c8ebac" />
-<img width="1600" height="1600" alt="blob (1)" src="https://github.com/user-attachments/assets/7a7aae0b-5eb6-44e3-aff6-ab600a77b21a" />
-<img width="340" height="340" alt="CybersecurityPathwayBadge" src="https://github.com/user-attachments/assets/288a6160-504a-4f8e-94de-1c54f1237ee7" />
-<img width="1468" height="1468" alt="image (1)" src="https://github.com/user-attachments/assets/f59a9087-975d-4db3-8b67-99e5aa748a20" />
-<img width="600" height="600" alt="I2CS__1_" src="https://github.com/user-attachments/assets/06b568c0-5d63-42da-aeee-cbecae058bed" />
-ications-of-ai-from-google-v0-tw6tldaarr1g1.webp" width="120" alt="Google AI"/><br />
-      <b>Google AI Cloud</b>
-    </td>
-  </tr>
-</table>
+</div>
