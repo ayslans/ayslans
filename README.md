@@ -13,32 +13,58 @@
   </div>
 </div>
 
-<!-- RESUMO EXECUTIVO -->
-<div style="margin-bottom: 50px;">
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="width: 5px; height: 30px; background: linear-gradient(to bottom, #3b82f6, #2563eb); margin-right: 15px; border-radius: 10px;"></div>
-    <h2 style="font-size: 1.8rem; font-weight: 800; color: #0f172a; margin: 0; letter-spacing: -0.02em;">Resumo Executivo</h2>
+<!-- CASE EM DESTAQUE: VÓRTEX IA -->
+<div style="margin-bottom: 60px;">
+  <div style="display: flex; align-items: center; margin-bottom: 25px;">
+    <div style="width: 5px; height: 30px; background: #ea580c; margin-right: 15px; border-radius: 10px;"></div>
+    <h2 style="font-size: 1.8rem; font-weight: 800; color: #0f172a; margin: 0; letter-spacing: -0.02em;">Empresa em Destaque: Vórtex IA</h2>
   </div>
-  <div style="background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%); border-radius: 16px; padding: 30px; border: 1px solid #e2e8f0; color: #334155; font-size: 1.1rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
-    Profissional e pesquisador focado no desenvolvimento de ecossistemas de **Inteligência Artificial ponta a ponta**. Especialista em orquestração de modelos avançados de linguagem (LLMs) e infraestrutura em nuvem para otimização de processos governamentais e corporativos de alta complexidade.
+  
+  <div style="background: #0f172a; border-radius: 24px; padding: 40px; color: #f8fafc; border: 1px solid #1e293b; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);">
+    <div style="display: flex; flex-direction: column; md-flex-direction: row; gap: 30px;">
+      <div style="flex: 1;">
+        <div style="display: inline-block; background: #ea580c; color: #ffffff; padding: 4px 12px; border-radius: 8px; font-size: 0.75rem; font-weight: 800; text-transform: uppercase; margin-bottom: 15px; letter-spacing: 0.1em;">Flagship Project</div>
+        <h3 style="font-size: 2.2rem; font-weight: 900; color: #ffffff; margin: 0 0 15px 0;">Vórtex IA Consultoria</h3>
+        <p style="font-size: 1.1rem; color: #94a3b8; margin-bottom: 25px; line-height: 1.6;">Arquitetura de ponta para <strong>Agentes de IA e Landing Pages de Alta Conversão</strong>. Transformando intenção em interfaces dinâmicas em tempo real.</p>
+        
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 30px;">
+          <div style="background: rgba(255, 255, 255, 0.03); padding: 15px; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1);">
+            <p style="color: #ea580c; font-size: 0.8rem; font-weight: 700; margin: 0 0 5px 0; text-transform: uppercase;">Engine</p>
+            <p style="margin: 0; font-size: 0.9rem; color: #cbd5e1;">React 19 + Anthropic Claude 3</p>
+          </div>
+          <div style="background: rgba(255, 255, 255, 0.03); padding: 15px; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1);">
+            <p style="color: #ea580c; font-size: 0.8rem; font-weight: 700; margin: 0 0 5px 0; text-transform: uppercase;">Infra</p>
+            <p style="margin: 0; font-size: 0.9rem; color: #cbd5e1;">Cloudflare Workers (Edge)</p>
+          </div>
+        </div>
+      </div>
+      
+      <div style="flex: 1; background: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 25px; border: 1px solid rgba(255, 255, 255, 0.1);">
+        <h4 style="color: #ffffff; margin: 0 0 15px 0; font-size: 1.1rem; display: flex; align-items: center;">
+          <span style="color: #ea580c; margin-right: 10px;">▸</span> Inovações do AGENTS.md
+        </h4>
+        <ul style="margin: 0; padding: 0; list-style: none; color: #94a3b8; font-size: 0.9rem;">
+          <li style="margin-bottom: 12px;">• <strong>UltraReal Studio</strong>: Conversão baseada em vídeos realistas de alta performance.</li>
+          <li style="margin-bottom: 12px;">• <strong>Generative UI</strong>: Geração instantânea de componentes via chat interativo.</li>
+          <li style="margin-bottom: 12px;">• <strong>Agentic Workflows</strong>: Fluxos de trabalho guiados por agentes de decisão.</li>
+          <li>• <strong>Multi-Locale SEO</strong>: Estratégia de busca global (PT-BR/EN-US).</li>
+        </ul>
+        <div style="margin-top: 25px;">
+          <a href="http://www.vortexaiconsultoria.com" style="display: block; text-align: center; background: #ea580c; color: #ffffff; text-decoration: none; padding: 12px; border-radius: 12px; font-weight: 700; transition: 0.3s;">Visitar Vórtex IA</a>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
-<!-- PROJETOS ESTRATÉGICOS -->
+<!-- OUTROS PROJETOS ESTRATÉGICOS -->
 <div style="margin-bottom: 50px;">
   <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <div style="width: 5px; height: 30px; background: linear-gradient(to bottom, #3b82f6, #2563eb); margin-right: 15px; border-radius: 10px;"></div>
-    <h2 style="font-size: 1.8rem; font-weight: 800; color: #0f172a; margin: 0; letter-spacing: -0.02em;">Portfólio de Projetos Estratégicos</h2>
+    <h2 style="font-size: 1.8rem; font-weight: 800; color: #0f172a; margin: 0; letter-spacing: -0.02em;">Outros Projetos Estratégicos</h2>
   </div>
 
-  <!-- Projeto 1 -->
-  <div style="margin-bottom: 25px; border: 1px solid #e2e8f0; border-radius: 16px; padding: 25px; background-color: #fff; border-left: 6px solid #3b82f6;">
-    <h3 style="color: #0f172a; margin: 0 0 10px 0; font-size: 1.4rem; font-weight: 700;">Vórtex AI</h3>
-    <p style="font-size: 0.95rem; color: #3b82f6; font-weight: 600; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 0.05em;">Consultoria de Inovação (TRL 3)</p>
-    <p style="color: #475569; margin-bottom: 0;">Desenvolvimento de agentes inteligentes para automação de fluxos críticos em organizações e suporte a profissionais liberais.</p>
-  </div>
-
-  <!-- Projeto 2 -->
+  <!-- Projeto 1: RFP-Analyzer -->
   <div style="margin-bottom: 25px; border: 1px solid #e2e8f0; border-radius: 16px; padding: 25px; background-color: #fff; border-left: 6px solid #3b82f6;">
     <h3 style="color: #0f172a; margin: 0 0 10px 0; font-size: 1.4rem; font-weight: 700;">RFP-Analyzer Enterprise</h3>
     <p style="color: #475569; margin-bottom: 15px;">Arquitetura inteligente para extração e análise automatizada de dados em editais e licitações públicas.</p>
@@ -51,7 +77,7 @@
     <p style="font-size: 0.9rem; color: #64748b; margin: 0;"><strong style="color: #334155;">Destaque:</strong> Processamento em larga escala com foco em precisão técnica e conformidade.</p>
   </div>
 
-  <!-- Projeto 3 -->
+  <!-- Projeto 2: Nexus AI -->
   <div style="margin-bottom: 25px; border: 1px solid #e2e8f0; border-radius: 16px; padding: 25px; background-color: #fff; border-left: 6px solid #3b82f6;">
     <h3 style="color: #0f172a; margin: 0 0 10px 0; font-size: 1.4rem; font-weight: 700;">Nexus AI (POC)</h3>
     <p style="color: #475569; margin-bottom: 15px;">Agente Inteligente para automação de processos em hubs de inovação e departamentos de P&D.</p>
