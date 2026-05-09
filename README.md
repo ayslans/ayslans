@@ -1,168 +1,127 @@
-AAAAAAAAAAAAAAAAAAAAA<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #1e293b; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 40px 20px; background-color: #ffffff;">
+# 👨‍💻 Francisco Silva | IA, Dados e Estratégia de Inovação
 
-<!-- HEADER -->
-<div style="text-align: center; border-bottom: 2px solid #f1f5f9; padding-bottom: 40px; margin-bottom: 50px;">
-  <h1 style="color: #0f172a; font-siAze: 3rem; font-weight: 900; margin-bottom: 10px; letter-spacing: -0.05em; text-transform: uppercase;">SILVA, Francisco</h1>
-  <p style="color: #3b82f6; font-size: 1.2rem; font-weight: 600; margin-bottom: 5px; letter-spacing: 0.05em;">Mestrando em Administração pela Universidade Estadual do Ceará</p>
-  <p style="color: #64748b; font-size: 1.3rem; font-weight: 500; margin-top: 0; letter-spacing: 0.02em;">Especialista em IA, Dados e Estratégia de Inovação</p>
-  <div style="margin-top: 25px; display: flex; justify-content: center; gap: 15px; font-size: 0.95rem; color: #64748b;">
-    <span>Soluções End-to-End</span>
-    <span style="color: #cbd5e1;">•</span>
-    <span>Arquitetura Cloud</span>
-    <span style="color: #cbd5e1;">•</span>
-    <span>Inteligência de Mercado</span>
-  </div>
+*Profissional e pesquisador com foco no desenvolvimento de soluções de Inteligência Artificial ponta a ponta (End-to-End). Especialista em integrar modelos avançados de linguagem (LLMs) com infraestruturas em nuvem para resolver problemas complexos de gestão e análise de dados governamentais e corporativos.*
+
+---
+
+## 📖 Sobre Mim
+
+Sou graduando em Engenharia de Software e atuo como desenvolvedor *fullstack* desde os meus 14 anos. Possuo Bacharelado em Administração pela Universidade Estadual Vale do Acaraú (UVA) e sou Mestrando em Administração pela Universidade Estadual do Ceará (UECE), tendo sido aprovado para o *Executive Management* na Bayswater College London (UK) pela IBS Americas/USP. 
+
+Minha trajetória une o rigor acadêmico com a aplicação prática tecnológica. Atualmente:
+* **CEO e Desenvolvedor na Vórtex AI**: Startup (TRL 3) dedicada a automatizar tarefas triviais e burocráticas com Agentes de IA para profissionais liberais e empresas.
+* **Pesquisador no Grupo Tecnovalab**: Liderado pelo Cientista-chefe de Inovação da FUNCAP.
+* **Integrante do Projeto NEXUS AI**: Colaboração entre Instituto Atlântico, FINEP, EIL e universidades para criação de um agente de IA focado no acesso a editais de fomento.
+* **Membro Convidado da ESCOM / CCOMGEX**: Participante do programa de formação em *Ethical Hacker* pelo Exército Brasileiro.
+* **Membro do Google Developer Program**.
+
+---
+
+## 🚀 Projetos em Destaque
+
+### [Vórtex AI](https://www.vortexaiconsultoria.com)
+**Startup de Consultoria e Automação (TRL 3)**
+Focada no desenvolvimento de agentes de IA para organizações e profissionais liberais, otimizando o tempo e elevando a produtividade em rotinas burocráticas.
+
+### 🔍 RFP-Analyzer Enterprise
+**Arquitetura de Inteligência de Mercado e Licitações**
+Solução desenhada para automatizar a análise e extração de dados de editais e licitações públicas.
+* **Stack:** Python, Google Cloud Platform (GCP), Vertex AI, Gemini 1.5 Pro.
+* **Destaque:** Implementação de fluxos de processamento de documentos em larga escala com foco em precisão técnica e conformidade.
+
+### 🤖 Nexus AI (POC)
+**Agente Inteligente para Gestão da Inovação**
+Desenvolvimento de uma Prova de Conceito para automação de processos em hubs de inovação e departamentos de P&D (Considerado pelo MCTI como uma das ODs).
+* **Stack:** Python, Integração de Agentes (*Agentic Workflows*), APIs de LLM.
+* **Destaque:** Foco na experiência do usuário corporativo e na métrica de prontidão tecnológica (TRL).
+
+### 📈 Análise Setorial e Inteligência de Dados
+**Integração de IA na Indústria (Pesquisa Quantitativa)**
+Modelagem estatística aplicada para compreender o impacto da tecnologia no setor industrial.
+* **Stack:** Typescript, R, Python, Bibliometrix/Biblioshiny.
+* **Destaque:** Transformação de dados brutos em insights estratégicos para políticas de inovação.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+* **Desenvolvimento e IA:** Python, R, Machine Learning, Deep Learning, Processamento de Linguagem Natural (NLP).
+* **Cloud & DevOps:** Google Cloud Platform (Vertex AI, BigQuery, Cloud Functions).
+* **Engenharia de Dados:** Web Scraping especializado (Instituições Públicas e BI).
+* **Business Intelligence:** Power BI (Visualização Avançada), Dashboards Estratégicos.
+* **Dados & Estatística:** Análise multivariada e métodos quantitativos rigorosos.
+
+---
+
+## 🏆 Certificações e Reconhecimentos
+
+Na área de TI, possuo certificações internacionais de peso, incluindo **Google DevOps Engineer**, **Google Generative AI Leader**, **Terraform Associate (003 e 004)**, além das certificações Cisco em **Cybersecurity e IT Support**.
+
+<br>
+
+<div align="center">
+  <table border="0" style="text-align: center;">
+    <tr>
+      <td align="center" width="20%"><br>
+        <img src="https://github.com/user-attachments/assets/fc52b456-9a4f-48ab-8045-ad0c3322d726" width="120" alt="Google AI Cloud"/><br />
+        <b>Google AI Cloud</b>
+      </td>
+      <td align="center" width="20%"><br>
+        <img src="https://github.com/user-attachments/assets/6f8fe376-ac3c-4cef-a487-d03253f7afcd" width="120" alt="Terraform"/><br />
+        <b>Terraform Associate</b>
+      </td>
+       <td align="center" width="20%"><br>
+        <img src="blob (1).png" width="120" alt="Azure AI Engineer"/><br />
+        <b>Azure AI Associate</b>
+      </td>
+      <td align="center" width="20%"><br>
+        <img src="blob.png" width="120" alt="AWS AI Practitioner"/><br />
+        <b>AWS AI Practitioner</b>
+      </td>
+      <td align="center" width="20%"><br>
+        <img src="https://github.com/user-attachments/assets/48d51b0c-461c-404d-a738-1130ed283497" width="120" alt="CCST IT Support"/><br />
+        <b>CCST IT Support</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%"><br>
+        <img src="https://github.com/user-attachments/assets/ba4f49ab-e228-4a9d-bd09-439b7b84f574" width="120" alt="CCST Cybersecurity"/><br />
+        <b>CCST Cybersecurity</b>
+      </td>
+      <td align="center" width="20%"><br>
+        <img src="https://github.com/user-attachments/assets/ba4a3305-1ef4-442e-ab0e-7433487b77e8" width="120" alt="DevNet Associate"/><br />
+        <b>DevNet Learning</b>
+      </td>
+      <td align="center" width="20%"><br>
+        <img src="https://github.com/user-attachments/assets/288a6160-504a-4f8e-94de-1c54f1237ee7" width="120" alt="Cybersecurity Pathway"/><br />
+        <b>Cyber Pathway</b>
+      </td>
+      <td align="center" width="20%"><br>
+        <img src="https://github.com/user-attachments/assets/06b568c0-5d63-42da-aeee-cbecae058bed" width="120" alt="Intro to Cybersecurity"/><br />
+        <b>Intro to Cyber</b>
+      </td>
+       <td align="center" width="20%"><br>
+        <img src="WhatsApp_Image_2026-04-30_at_20.31.34-removebg.png" width="150" alt="Vortex AI Logo"/><br />
+        <b>Vortex AI</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- DEV/CEO: VÓRTEX IA -->
-<div style="margin-bottom: 60px;">
-  <div style="display: flex; align-items: center; margin-bottom: 25px;">
-    <div style="width: 5px; height: 30px; background: #ea580c; margin-right: 15px; border-radius: 10px;"></div>
-    <h2 style="font-size: 1.8rem; font-weight: 800; color: #0f172a; margin: 0; letter-spacing: -0.02em;">Empresa em Destaque: Vórtex IA</h2>
-  </div>
-  
-  <div style="background: #0f172a; border-radius: 24px; padding: 40px; color: #f8fafc; border: 1px solid #1e293b; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);">
-    
-    <!-- Logo e Título -->
-    <div style="margin-bottom: 30px;">
-      <img src="https://github.com/user-attachments/assets/97473cda-24a1-41a6-a1a6-8570c1247c61" width="120" alt="Vórtex IA Logo" style="margin-bottom: 20px;"/>
-      <h3 style="font-size: 2.2rem; font-weight: 900; color: #ffffff; margin: 0 0 10px 0;">Vórtex IA: Inteligência Estratégica</h3>
-      <p style="font-size: 1rem; color: #3b82f6; font-weight: 700; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 0.1em;">Acelerando a Transformação Digital</p>
-      <p style="font-size: 1.1rem; color: #94a3b8; line-height: 1.6; margin-bottom: 20px;">Liderando a fronteira da inovação com Agentes Autônomos e Interfaces Generativas. Desenvolvemos ecossistemas de IA que automatizam a complexidade e potencializam resultados de alto impacto.</p>
-    </div>
+---
 
-    <!-- WhatsApp Quick Link -->
-    <div style="background: rgba(37, 211, 102, 0.1); padding: 15px 20px; border-radius: 14px; border: 1px solid rgba(37, 211, 102, 0.2); margin-bottom: 35px; display: inline-block;">
-      <a href="https://wa.me/5588982212212" style="color: #25d366; text-decoration: none; font-size: 0.95rem; font-weight: 700; display: flex; align-items: center; gap: 10px;">
-        <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="22" alt="WhatsApp"/>
-        Fale Conosco via WhatsApp
-      </a>
-    </div>
+## 📫 Contato
 
-    <!-- Technical Details Box -->
-    <div style="background: rgba(255, 255, 255, 0.05); border-radius: 16px; padding: 30px; border: 1px solid rgba(255, 255, 255, 0.1);">
-      <h4 style="color: #ffffff; margin: 0 0 20px 0; font-size: 1.1rem; font-weight: 700;">▸ Stack & Performance (AGENTS.md)</h4>
-      
-      <div style="margin-bottom: 25px;">
-        <p style="color: #ea580c; font-size: 0.75rem; font-weight: 800; margin: 0 0 8px 0; text-transform: uppercase; letter-spacing: 0.05em;">Tecnologias Core</p>
-        <p style="margin: 0; font-size: 0.95rem; color: #cbd5e1;">React 19, Anthropic Claude 3, Cloudflare Edge Computing.</p>
-      </div>
+Você pode acompanhar meus projetos ou iniciar uma conversa através dos canais abaixo:
 
-      <div style="margin-bottom: 25px;">
-        <p style="color: #ea580c; font-size: 0.75rem; font-weight: 800; margin: 0 0 8px 0; text-transform: uppercase; letter-spacing: 0.05em;">Diferenciais Estratégicos</p>
-        <ul style="margin: 0; padding: 0; list-style: none; color: #94a3b8; font-size: 0.9rem;">
-          <li style="margin-bottom: 10px;">• <strong>UltraReal Studio</strong>: Conversão visual de alta fidelidade para negócios.</li>
-          <li style="margin-bottom: 10px;">• <strong>Agentic Workflows</strong>: Orquestração de agentes para decisões críticas.</li>
-          <li style="margin-bottom: 10px;">• <strong>Generative UI</strong>: Interfaces que se adaptam à intenção do usuário.</li>
-        </ul>
-      </div>
+* 🌐 **Website:** [www.vortexaiconsultoria.com](https://www.vortexaiconsultoria.com)
+* 💼 **LinkedIn:** [Ayslan Regino](https://www.linkedin.com/in/ayslanregino)
+* 📧 **E-mail:** [contato@vortexaiconsultoria.com](mailto:contato@vortexaiconsultoria.com)
 
-      <a href="http://www.vortexaiconsultoria.com" style="display: block; text-align: center; background: #ffffff; color: #0f172a; text-decoration: none; padding: 14px; border-radius: 12px; font-weight: 800; transition: 0.3s; font-size: 1rem;">Explorar Site Oficial</a>
-    </div>
+### 📱 Fale comigo no WhatsApp
 
-  </div>
-</div>
+[![WhatsApp](https://img-shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588982212212)
 
-<!-- OUTROS PROJETOS ESTRATÉGICOS -->
-<div style="margin-bottom: 50px;">
-  <div style="display: flex; align-items: center; margin-bottom: 30px;">
-    <div style="width: 5px; height: 30px; background: linear-gradient(to bottom, #3b82f6, #2563eb); margin-right: 15px; border-radius: 10px;"></div>
-    <h2 style="font-size: 1.8rem; font-weight: 800; color: #0f172a; margin: 0; letter-spacing: -0.02em;">Outros Projetos Estratégicos</h2>
-  </div>
+<br>
 
-  <div style="margin-bottom: 25px; border: 1px solid #e2e8f0; border-radius: 16px; padding: 25px; background-color: #fff; border-left: 6px solid #3b82f6;">
-    <h3 style="color: #0f172a; margin: 0 0 10px 0; font-size: 1.4rem; font-weight: 700;">RFP-Analyzer Enterprise</h3>
-    <p style="color: #475569; margin-bottom: 15px;">Arquitetura inteligente para extração e análise automatizada de dados em editais e licitações públicas.</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <span style="background: #eff6ff; color: #1d4ed8; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">Python</span>
-      <span style="background: #eff6ff; color: #1d4ed8; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">Vertex AI</span>
-      <span style="background: #eff6ff; color: #1d4ed8; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">Gemini 1.5 Pro</span>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 25px; border: 1px solid #e2e8f0; border-radius: 16px; padding: 25px; background-color: #fff; border-left: 6px solid #3b82f6;">
-    <h3 style="color: #0f172a; margin: 0 0 10px 0; font-size: 1.4rem; font-weight: 700;">Nexus AI (POC)</h3>
-    <p style="color: #475569; margin-bottom: 15px;">Agente Inteligente para automação de processos em hubs de inovação e departamentos de P&D.</p>
-    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-      <span style="background: #f0fdf4; color: #15803d; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">Agentic Workflow</span>
-      <span style="background: #f0fdf4; color: #15803d; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600;">LLM Integration</span>
-    </div>
-  </div>
-</div>
-
-<!-- COMPETÊNCIAS -->
-<div style="margin-bottom: 50px;">
-  <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div style="width: 5px; height: 30px; background: linear-gradient(to bottom, #3b82f6, #2563eb); margin-right: 15px; border-radius: 10px;"></div>
-    <h2 style="font-size: 1.8rem; font-weight: 800; color: #0f172a; margin: 0; letter-spacing: -0.02em;">Stack Tecnológica</h2>
-  </div>
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-    <div style="background: #f8fafc; padding: 25px; border-radius: 16px; border: 1px solid #e2e8f0;">
-      <h4 style="margin: 0 0 10px 0; color: #0f172a;">Desenvolvimento & IA</h4>
-      <p style="margin: 0; font-size: 0.95rem; color: #475569;">Python, Machine Learning, Deep Learning, NLP, Computer Vision.</p>
-    </div>
-    <div style="background: #f8fafc; padding: 25px; border-radius: 16px; border: 1px solid #e2e8f0;">
-      <h4 style="margin: 0 0 10px 0; color: #0f172a;">Engenharia de Dados</h4>
-      <p style="margin: 0; font-size: 0.95rem; color: #475569;">Web Scraping, BigQuery, Cloud Functions, Power BI Avançado.</p>
-    </div>
-  </div>
-</div>
-
-<!-- CERTIFICAÇÕES -->
-<div style="margin-bottom: 50px;">
-  <div style="display: flex; align-items: center; margin-bottom: 30px;">
-    <div style="width: 5px; height: 30px; background: linear-gradient(to bottom, #3b82f6, #2563eb); margin-right: 15px; border-radius: 10px;"></div>
-    <h2 style="font-size: 1.8rem; font-weight: 800; color: #0f172a; margin: 0; letter-spacing: -0.02em;">Certificações</h2>
-  </div>
-  
-  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 20px; padding: 40px; overflow-x: auto;">
-    <table border="0" width="100%" cellspacing="20" style="min-width: 800px;">
-      <tr>
-        <td align="center" width="20%" valign="top">
-          <div style="height: 100px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-            <img src="https://github.com/user-attachments/assets/4f645702-7c38-4bcc-b903-392b00c8ebac" width="80" alt="GCP"/>
-          </div>
-          <span style="font-size: 0.75rem; font-weight: 700; color: #475569;">Google Cloud<br/>DevOps Engineer</span>
-        </td>
-        <td align="center" width="20%" valign="top">
-          <div style="height: 100px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-            <img src="https://github.com/user-attachments/assets/7a7aae0b-5eb6-44e3-aff6-ab600a77b21a" width="80" alt="Terraform"/>
-          </div>
-          <span style="font-size: 0.75rem; font-weight: 700; color: #475569;">Terraform<br/>Associate (003)</span>
-        </td>
-        <td align="center" width="20%" valign="top">
-          <div style="height: 100px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-            <img src="https://github.com/user-attachments/assets/142999c9-04a8-41cf-b5b8-7bac375d2efa" width="80" alt="Terraform"/>
-          </div>
-          <span style="font-size: 0.75rem; font-weight: 700; color: #475569;">Terraform<br/>Associate (004)</span>
-        </td>
-        <td align="center" width="20%" valign="top">
-          <div style="height: 100px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-            <img src="https://github.com/user-attachments/assets/6f8fe376-ac3c-4cef-a487-d03253f7afcd" width="80" alt="AWS"/>
-          </div>
-          <span style="font-size: 0.75rem; font-weight: 700; color: #475569;">AWS Certified<br/>AI Practitioner</span>
-        </td>
-        <td align="center" width="20%" valign="top">
-          <div style="height: 100px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-            <img src="https://github.com/user-attachments/assets/ba4f49ab-e228-4a9d-bd09-439b7b84f574" width="80" alt="Cisco"/>
-          </div>
-          <span style="font-size: 0.75rem; font-weight: 700; color: #475569;">CCST<br/>Cybersecurity</span>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
-
-<!-- FOOTER -->
-<div style="padding-top: 30px; border-top: 2px solid #f1f5f9; display: flex; flex-direction: column; align-items: center;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 30px;">
-    <a href="http://www.vortexaiconsultoria.com" style="text-decoration: none; color: #ffffff; background: #0f172a; padding: 10px 20px; border-radius: 10px; font-weight: 600; font-size: 0.9rem;">Website</a>
-    <a href="https://www.linkedin.com/in/ayslanregino" style="text-decoration: none; color: #ffffff; background: #3b82f6; padding: 10px 20px; border-radius: 10px; font-weight: 600; font-size: 0.9rem;">LinkedIn</a>
-    <a href="mailto:contato@vortexaiconsultoria.com" style="text-decoration: none; color: #0f172a; background: #f8fafc; padding: 10px 20px; border-radius: 10px; font-weight: 600; font-size: 0.9rem; border: 1px solid #e2e8f0;">E-mail</a>
-  </div>
-  <p style="color: #94a3b8; font-size: 0.85rem; font-weight: 500;">
-    © 2026 Francisco Silva | Todos os direitos reservados.
-  </p>
-</div>
-
-</div>
+<img src="qrcode.png" alt="QR Code WhatsApp" width="150">
