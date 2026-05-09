@@ -1,127 +1,98 @@
-# 👨‍💻 Francisco Silva | IA, Dados e Estratégia de Inovação
-
-*Profissional e pesquisador com foco no desenvolvimento de soluções de Inteligência Artificial ponta a ponta (End-to-End). Especialista em integrar modelos avançados de linguagem (LLMs) com infraestruturas em nuvem para resolver problemas complexos de gestão e análise de dados governamentais e corporativos.*
-
----
-
-## 📖 Sobre Mim
-
-Sou graduando em Engenharia de Software e atuo como desenvolvedor *fullstack* desde os meus 14 anos. Possuo Bacharelado em Administração pela Universidade Estadual Vale do Acaraú (UVA) e sou Mestrando em Administração pela Universidade Estadual do Ceará (UECE), tendo sido aprovado para o *Executive Management* na Bayswater College London (UK) pela IBS Americas/USP. 
-
-Minha trajetória une o rigor acadêmico com a aplicação prática tecnológica. Atualmente:
-* **CEO e Desenvolvedor na Vórtex AI**: Startup (TRL 3) dedicada a automatizar tarefas triviais e burocráticas com Agentes de IA para profissionais liberais e empresas.
-* **Pesquisador no Grupo Tecnovalab**: Liderado pelo Cientista-chefe de Inovação da FUNCAP.
-* **Integrante do Projeto NEXUS AI**: Colaboração entre Instituto Atlântico, FINEP, EIL e universidades para criação de um agente de IA focado no acesso a editais de fomento.
-* **Membro Convidado da ESCOM / CCOMGEX**: Participante do programa de formação em *Ethical Hacker* pelo Exército Brasileiro.
-* **Membro do Google Developer Program**.
-
----
-
-## 🚀 Projetos em Destaque
-
-### [Vórtex AI](https://www.vortexaiconsultoria.com)
-**Startup de Consultoria e Automação (TRL 3)**
-Focada no desenvolvimento de agentes de IA para organizações e profissionais liberais, otimizando o tempo e elevando a produtividade em rotinas burocráticas.
-
-### 🔍 RFP-Analyzer Enterprise
-**Arquitetura de Inteligência de Mercado e Licitações**
-Solução desenhada para automatizar a análise e extração de dados de editais e licitações públicas.
-* **Stack:** Python, Google Cloud Platform (GCP), Vertex AI, Gemini 1.5 Pro.
-* **Destaque:** Implementação de fluxos de processamento de documentos em larga escala com foco em precisão técnica e conformidade.
-
-### 🤖 Nexus AI (POC)
-**Agente Inteligente para Gestão da Inovação**
-Desenvolvimento de uma Prova de Conceito para automação de processos em hubs de inovação e departamentos de P&D (Considerado pelo MCTI como uma das ODs).
-* **Stack:** Python, Integração de Agentes (*Agentic Workflows*), APIs de LLM.
-* **Destaque:** Foco na experiência do usuário corporativo e na métrica de prontidão tecnológica (TRL).
-
-### 📈 Análise Setorial e Inteligência de Dados
-**Integração de IA na Indústria (Pesquisa Quantitativa)**
-Modelagem estatística aplicada para compreender o impacto da tecnologia no setor industrial.
-* **Stack:** Typescript, R, Python, Bibliometrix/Biblioshiny.
-* **Destaque:** Transformação de dados brutos em insights estratégicos para políticas de inovação.
-
----
-
-## 🛠️ Stack Tecnológica
-
-* **Desenvolvimento e IA:** Python, R, Machine Learning, Deep Learning, Processamento de Linguagem Natural (NLP).
-* **Cloud & DevOps:** Google Cloud Platform (Vertex AI, BigQuery, Cloud Functions).
-* **Engenharia de Dados:** Web Scraping especializado (Instituições Públicas e BI).
-* **Business Intelligence:** Power BI (Visualização Avançada), Dashboards Estratégicos.
-* **Dados & Estatística:** Análise multivariada e métodos quantitativos rigorosos.
-
----
-
-## 🏆 Certificações e Reconhecimentos
-
-Na área de TI, possuo certificações internacionais de peso, incluindo **Google DevOps Engineer**, **Google Generative AI Leader**, **Terraform Associate (003 e 004)**, além das certificações Cisco em **Cybersecurity e IT Support**.
-
-<br>
-
-<div align="center">
-  <table border="0" style="text-align: center;">
-    <tr>
-      <td align="center" width="20%"><br>
-        <img src="https://github.com/user-attachments/assets/fc52b456-9a4f-48ab-8045-ad0c3322d726" width="120" alt="Google AI Cloud"/><br />
-        <b>Google AI Cloud</b>
-      </td>
-      <td align="center" width="20%"><br>
-        <img src="https://github.com/user-attachments/assets/6f8fe376-ac3c-4cef-a487-d03253f7afcd" width="120" alt="Terraform"/><br />
-        <b>Terraform Associate</b>
-      </td>
-       <td align="center" width="20%"><br>
-        <img src="blob (1).png" width="120" alt="Azure AI Engineer"/><br />
-        <b>Azure AI Associate</b>
-      </td>
-      <td align="center" width="20%"><br>
-        <img src="blob.png" width="120" alt="AWS AI Practitioner"/><br />
-        <b>AWS AI Practitioner</b>
-      </td>
-      <td align="center" width="20%"><br>
-        <img src="https://github.com/user-attachments/assets/48d51b0c-461c-404d-a738-1130ed283497" width="120" alt="CCST IT Support"/><br />
-        <b>CCST IT Support</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><br>
-        <img src="https://github.com/user-attachments/assets/ba4f49ab-e228-4a9d-bd09-439b7b84f574" width="120" alt="CCST Cybersecurity"/><br />
-        <b>CCST Cybersecurity</b>
-      </td>
-      <td align="center" width="20%"><br>
-        <img src="https://github.com/user-attachments/assets/ba4a3305-1ef4-442e-ab0e-7433487b77e8" width="120" alt="DevNet Associate"/><br />
-        <b>DevNet Learning</b>
-      </td>
-      <td align="center" width="20%"><br>
-        <img src="https://github.com/user-attachments/assets/288a6160-504a-4f8e-94de-1c54f1237ee7" width="120" alt="Cybersecurity Pathway"/><br />
-        <b>Cyber Pathway</b>
-      </td>
-      <td align="center" width="20%"><br>
-        <img src="https://github.com/user-attachments/assets/06b568c0-5d63-42da-aeee-cbecae058bed" width="120" alt="Intro to Cybersecurity"/><br />
-        <b>Intro to Cyber</b>
-      </td>
-       <td align="center" width="20%"><br>
-        <img src="WhatsApp_Image_2026-04-30_at_20.31.34-removebg.png" width="150" alt="Vortex AI Logo"/><br />
-        <b>Vortex AI</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📫 Contato
-
-Você pode acompanhar meus projetos ou iniciar uma conversa através dos canais abaixo:
-
-* 🌐 **Website:** [www.vortexaiconsultoria.com](https://www.vortexaiconsultoria.com)
-* 💼 **LinkedIn:** [Ayslan Regino](https://www.linkedin.com/in/ayslanregino)
-* 📧 **E-mail:** [contato@vortexaiconsultoria.com](mailto:contato@vortexaiconsultoria.com)
-
-### 📱 Fale comigo no WhatsApp
-
-[![WhatsApp](https://img-shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5588982212212)
-
-<br>
-
-<img src="qrcode.png" alt="QR Code WhatsApp" width="150">
+<!doctype html>
+<html lang="pt-BR"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Francisco Silva | README</title>
+  <script src="https://cdn.tailwindcss.com/3.4.17"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;family=Alegreya:wght@400;500;700&amp;display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/lucide@0.263.0/dist/umd/lucide.min.js"></script>
+  <style>
+        :root { --vh: 1vh; }
+        body { font-family: 'Alegreya', serif; }
+        .mono { font-family: 'Space Mono', monospace; }
+        .code-block { background: #ffffff; border: 1px solid #e5e7eb; }
+        .glow { box-shadow: 0 0 20px rgba(99, 102, 241, 0.15); }
+        .typing::after { content: '|'; animation: blink 1s step-end infinite; color: #7c3aed; }
+        @keyframes blink { 50% { opacity: 0; } }
+        @keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .fade-up { animation: fadeUp 0.6s ease forwards; }
+        .fade-up-1 { animation-delay: 0.1s; opacity: 0; }
+        .fade-up-2 { animation-delay: 0.2s; opacity: 0; }
+        .fade-up-3 { animation-delay: 0.3s; opacity: 0; }
+        .fade-up-4 { animation-delay: 0.4s; opacity: 0; }
+        .badge { background: #f3f4f6; border: 1px solid #d1d5db; transition: all 0.2s; }
+        .badge:hover { border-color: #7c3aed; transform: translateY(-2px); }
+        .project-card { transition: all 0.3s; }
+        .project-card:hover { transform: translateY(-4px); box-shadow: 0 8px 30px rgba(99, 102, 241, 0.2); }
+    </style>
+  <script src="/_sdk/data_sdk.js" type="text/javascript"></script>
+  <script src="/_sdk/resizing_sdk.js" type="text/javascript"></script>
+ </head>
+ <body data-template-id="__page-root" class="min-h-screen text-gray-900" style="background: rgb(255, 255, 255);">
+  <div class="w-full max-w-4xl mx-auto px-4 py-12 sm:px-8">
+   <!-- Header -->
+   <header class="mb-12 fade-up">
+    <div class="code-block rounded-lg p-6 glow">
+     <div class="flex items-center gap-2 mb-4">
+      <span class="w-3 h-3 rounded-full bg-red-500"></span> <span class="w-3 h-3 rounded-full bg-yellow-500"></span> <span class="w-3 h-3 rounded-full bg-green-500"></span> <span class="mono text-xs text-gray-500 ml-2">readme.md</span>
+     </div>
+     <p class="mono text-gray-500 text-sm mb-1">// profile</p>
+     <h1 data-template-id="hero-name" class="canva-text mono font-bold text-2xl sm:text-3xl mb-2" style="color: rgb(17, 24, 39); font-weight: 700; font-style: normal; font-size: 40px;">Francisco Silva</h1>
+     <p data-template-id="hero-subtitle" class="canva-text mono text-sm sm:text-base typing" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 20px;">IA, Dados e Estratégia de Inovação</p>
+    </div>
+   </header><!-- About -->
+   <section class="mb-12 fade-up fade-up-1">
+    <h2 data-template-id="about-title" class="canva-text mono font-bold text-lg mb-4" style="color: rgb(124, 58, 237); font-weight: 700; font-style: normal; font-size: 28px;">## 📖 Sobre Mim</h2>
+    <div data-template-id="about-section" class="canva-section code-block rounded-lg p-5" style="background: rgb(255, 255, 255);">
+     <p data-template-id="about-text" class="canva-text text-sm leading-relaxed" style="color: rgb(75, 85, 99); font-weight: 400; font-style: normal; font-size: 18px;">Graduando em Engenharia de Software e desenvolvedor fullstack desde os 14 anos. Bacharelado em Administração (UVA), Mestrando em Administração (UECE), aprovado para Executive Management na Bayswater College London (UK) pela IBS Americas/USP.</p>
+    </div>
+   </section><!-- Projects -->
+   <section class="mb-12 fade-up fade-up-3">
+    <h2 data-template-id="projects-title" class="canva-text mono font-bold text-lg mb-4" style="color: rgb(124, 58, 237); font-weight: 700; font-style: normal; font-size: 28px;">## 🚀 Projetos em Destaque</h2>
+    <div class="grid gap-4 sm:grid-cols-2">
+     <div data-template-id="project-1" class="canva-card code-block rounded-lg p-5 project-card" style="background: rgb(255, 255, 255);">
+      <h3 data-template-id="project-1-name" class="canva-text mono font-bold mb-2" style="color: rgb(17, 24, 39); font-weight: 700; font-style: normal; font-size: 22px;">Vórtex AI</h3>
+      <p data-template-id="project-1-desc" class="canva-text text-xs mb-3" style="color: rgb(75, 85, 99); font-weight: 400; font-style: normal; font-size: 16px;">Startup de Consultoria e Automação (TRL 3) — Agentes de IA para organizações e profissionais liberais.</p>
+      <p data-template-id="project-1-stack" class="canva-text mono text-xs" style="color: rgb(16, 185, 129); font-weight: 400; font-style: normal; font-size: 15px;">stack: [Python, GCP, LLMs]</p>
+     </div>
+     <div data-template-id="project-2" class="canva-card code-block rounded-lg p-5 project-card" style="background: rgb(255, 255, 255);">
+      <h3 data-template-id="project-2-name" class="canva-text mono font-bold mb-2" style="color: rgb(17, 24, 39); font-weight: 700; font-style: normal; font-size: 22px;">RFP-Analyzer Enterprise</h3>
+      <p data-template-id="project-2-desc" class="canva-text text-xs mb-3" style="color: rgb(75, 85, 99); font-weight: 400; font-style: normal; font-size: 16px;">Arquitetura de Inteligência de Mercado — Análise automatizada de editais e licitações públicas.</p>
+      <p data-template-id="project-2-stack" class="canva-text mono text-xs" style="color: rgb(16, 185, 129); font-weight: 400; font-style: normal; font-size: 15px;">stack: [Python, GCP, Vertex AI, Gemini]</p>
+     </div>
+     <div data-template-id="project-3" class="canva-card code-block rounded-lg p-5 project-card" style="background: rgb(255, 255, 255);">
+      <h3 data-template-id="project-3-name" class="canva-text mono font-bold mb-2" style="color: rgb(17, 24, 39); font-weight: 700; font-style: normal; font-size: 22px;">Nexus AI (POC)</h3>
+      <p data-template-id="project-3-desc" class="canva-text text-xs mb-3" style="color: rgb(75, 85, 99); font-weight: 400; font-style: normal; font-size: 16px;">Agente Inteligente para Gestão da Inovação — Automação de processos em hubs de inovação e P&amp;D.</p>
+      <p data-template-id="project-3-stack" class="canva-text mono text-xs" style="color: rgb(16, 185, 129); font-weight: 400; font-style: normal; font-size: 15px;">stack: [Python, Agentic Workflows, LLM APIs]</p>
+     </div>
+     <div data-template-id="project-4" class="canva-card code-block rounded-lg p-5 project-card" style="background: rgb(255, 255, 255);">
+      <h3 data-template-id="project-4-name" class="canva-text mono font-bold mb-2" style="color: rgb(17, 24, 39); font-weight: 700; font-style: normal; font-size: 22px;">Análise Setorial</h3>
+      <p data-template-id="project-4-desc" class="canva-text text-xs mb-3" style="color: rgb(75, 85, 99); font-weight: 400; font-style: normal; font-size: 16px;">Modelagem estatística para compreender o impacto da IA no setor industrial.</p>
+      <p data-template-id="project-4-stack" class="canva-text mono text-xs" style="color: rgb(16, 185, 129); font-weight: 400; font-style: normal; font-size: 15px;">stack: [TypeScript, R, Python, Bibliometrix]</p>
+     </div>
+    </div>
+   </section><!-- Tech Stack -->
+   <section class="mb-12 fade-up fade-up-4">
+    <h2 data-template-id="stack-title" class="canva-text mono font-bold text-lg mb-4" style="color: rgb(124, 58, 237); font-weight: 700; font-style: normal; font-size: 28px;">## 🛠️ Tech Stack</h2>
+    <div class="flex flex-wrap gap-2">
+     <span data-template-id="tech-1" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">Python</span> <span data-template-id="tech-2" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">R</span> <span data-template-id="tech-3" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">TypeScript</span> <span data-template-id="tech-4" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">GCP</span> <span data-template-id="tech-5" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">Vertex AI</span> <span data-template-id="tech-6" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">BigQuery</span> <span data-template-id="tech-7" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">Power BI</span> <span data-template-id="tech-8" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">NLP</span> <span data-template-id="tech-9" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">Deep Learning</span> <span data-template-id="tech-10" class="canva-tag badge rounded-md px-3 py-1 mono text-xs" style="color: rgb(124, 58, 237); font-weight: 400; font-style: normal; font-size: 16px;">Web Scraping</span>
+    </div>
+   </section><!-- Certifications -->
+   <section class="mb-12"><img data-template-id="certifications-image" class="canva-image w-full rounded-lg" loading="lazy" src="canva://MAHJJFcgb1U/1" alt="International certifications badges collection including AWS, Terraform, Cisco, and other professional credentials">
+   </section><!-- Contact -->
+   <footer class="mb-8">
+    <h2 data-template-id="contact-title" class="canva-text mono font-bold text-lg mb-4" style="color: rgb(124, 58, 237); font-weight: 700; font-style: normal; font-size: 28px;">## 📫 Contato</h2>
+    <div class="code-block rounded-lg p-5 mono text-sm space-y-2">
+     <p data-template-id="contact-web" class="canva-text" style="color: rgb(16, 185, 129); font-weight: 400; font-style: normal; font-size: 16px;">$ open https://www.vortexaiconsultoria.com</p>
+     <p data-template-id="contact-linkedin" class="canva-text" style="color: rgb(16, 185, 129); font-weight: 400; font-style: normal; font-size: 16px;">$ curl linkedin.com/in/ayslanregino</p>
+     <p data-template-id="contact-email" class="canva-text" style="color: rgb(16, 185, 129); font-weight: 400; font-style: normal; font-size: 16px;">$ mail contato@vortexaiconsultoria.com</p>
+     <p data-template-id="contact-whatsapp" class="canva-text" style="color: rgb(16, 185, 129); font-weight: 400; font-style: normal; font-size: 16px;">$ msg +55 88 98221-2212</p>
+    </div>
+   </footer>
+  </div>
+  <script src="/_sdk/editing_sdk.js"></script>
+  <script>
+        lucide.createIcons();
+    </script>
+ <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f8e110ae6475d0c',t:'MTc3ODMwMjA1MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script>
+</body></html>
